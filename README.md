@@ -92,4 +92,3 @@ NeuralChat uses a custom Tailwind CSS configuration based on the following palet
 - **Muted**: Light Pink (#F0B8B8)
 - **Foreground**: Dark Brown (#54463A)
 
-Built with ❤️ using Antigravity.
