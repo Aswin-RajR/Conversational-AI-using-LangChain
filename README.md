@@ -6,11 +6,7 @@ NeuralChat is a modern, full-stack AI chat application built with **FastAPI** (B
 
 ## 🎥 Demo
 
-<div align="center">
-  <video src="gif/demo.gif" width="100%" controls autoplay muted loop></video>
-</div>
-
-*The modern Rose & Sage interface in action.*
+![CNN Architecture](./gif/demo.gif)
 
 ---
 
